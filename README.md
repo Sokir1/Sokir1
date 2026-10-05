@@ -12,6 +12,7 @@ Construyo proyectos para practicar diseño de interfaces, arquitectura en capas 
 | --- | --- | --- |
 | [Librería Magna](https://github.com/Sokir1/libreria-magna) | Organización de libros y seguimiento de lecturas | JavaScript · Express · PostgreSQL |
 | [Química Andina](https://github.com/Sokir1/quimica-andina) | Registro de asistencia y reportes administrativos | Java · Swing · JDBC · MariaDB |
+| [Emporio](https://github.com/Sokir1/emporio-mvp) | Ventas, inventario por lotes y control de bodega | Java · Spring Boot · MariaDB · C# · WebView2 |
 
 ## Mi enfoque
 
